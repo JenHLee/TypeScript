@@ -33,4 +33,4 @@ if (filteredRestaurants.length === 0) {
   result = `We found ${filteredRestaurants.length} restaurants, the first is ${filteredRestaurants[0].name}.`;
 }
 
-console.log(result);
+//console.log(result);
